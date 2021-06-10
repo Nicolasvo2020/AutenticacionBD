@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988587268532",
+    "project_id": "autenticacionbd-be371",
+    "storage_bucket": "autenticacionbd-be371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988587268532:android:2a196f9f04e66e3e33fae1",
+        "android_client_info": {
+          "package_name": "com.example.autenticacionbd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988587268532-0lualj5d45eqaqcofjivine14mlrqd4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOMBx4JU9yl2MZJ2D64BsNc3aE41X4aWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988587268532-0lualj5d45eqaqcofjivine14mlrqd4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
